@@ -1,15 +1,12 @@
-p.flashy {
+.flashy{
   color:red;
   font-style: italic;
 }
-h1.flashy{
-  color:red;
-  font-style: italic;
-}
-h2.flashy{
-  color:red;
-  font-style: italic;
-}
-h2.best{
+
+.best{
   color:purple;
   font-style: bold;
+}
+.special{
+  color:green;
+}
