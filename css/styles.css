@@ -1,12 +1,33 @@
 .flashy{
   color:red;
   font-style: italic;
+  width: 100%;
 }
 
 .best{
   color:purple;
   font-style: bold;
+  float: none;
+  width: 100%;
 }
 .special{
   color:green;
+}
+
+img.main{
+  float:left;
+}
+
+.sidebar{
+  width: 100%;
+  float: left;
+  color: blue;
+}
+.column {
+  width: 30%;
+  float: left;
+}
+.header {
+  float: left;
+  width: 100%;
 }
